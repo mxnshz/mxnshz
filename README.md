@@ -21,7 +21,6 @@
   \/\/ linux \/\/
   \/\/ figma/photoshop \/\/
 ```
-
 ```yaml
       📭 Below is a link to my contact card website 
 ```
