@@ -22,6 +22,6 @@
   \/\/ figma/photoshop \/\/
 ```
 ```yaml
-      📭 Below is a link to my contact card website 
+📭 Below is a link to my contact website 
 ```
 <a href="https://vk.cc/cg0vfb" target="_black"> <img src="https://img.shields.io/badge/website-161B22?style=for-the-badge&logo=About.me&logoColor=white"></img> <a/>
