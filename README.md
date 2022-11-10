@@ -3,19 +3,19 @@
     <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/279302975371870218?bg=161B22&borderRadius=5px%205px%200%200">
 </a>
 <a href="https://wakatime.com/@mxns" target="_blank">
-    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mxns&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mxns&v=2&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
 
 ```yaml
 🖥️ frontend: 
-  \/\/ react/nextjs \/\/
-  \/\/ styled-components/tailwind \/\/
-  \/\/ redux/toolkit \/\/
+  \/\/ react/nextjs/svelte \/\/
+  \/\/ styled-components/tailwind/mui/bulma/bootstrap/ant-design \/\/
+  \/\/ redux/toolkit/mobx \/\/
 🛠 backend: 
   \/\/ node, expressjs \/\/
-  \/\/ mongoose \/\/
-  \/\/ docker \/\/
-  \/\/ axios \/\/
+  \/\/ mongoose/mysql \/\/
+  \/\/ docker/axios \/\/
+  \/\/ strapi \/\/
 👨‍💻 other: 
   \/\/ git \/\/ 
   \/\/ linux \/\/
