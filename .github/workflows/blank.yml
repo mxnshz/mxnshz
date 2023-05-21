@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: mxnshz/mxnshz@main
         with:
-          WAKATIME_API_KEY: -5d0f-4969-a8d4-585398e99f00
-          GH_TOKEN: 
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
