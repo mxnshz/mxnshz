@@ -28,3 +28,4 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
+          SECTION_NAME: ""
