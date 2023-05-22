@@ -20,21 +20,8 @@
   \/\/ figma/photoshop \/\/
 ```
 <!--START_SECTION:waka-->
-
-```text
-💬 Programming Languages: 
-JavaScript               43 hrs 9 mins       █████████████████████░░░░   83.11 % 
-YAML                     2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other                    2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Svelte                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-JSON                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-
-💻 Operating System: 
-Mac                      51 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
+<!--END_SECTION:waka-->
 ```yaml
 📭 Below is a link to my contact website 
 ```
-<!--END_SECTION:waka-->
 <a href="https://vk.cc/cg0vfb" target="_black"> <img src="https://img.shields.io/badge/website-161B22?style=for-the-badge&logo=About.me&logoColor=white"></img> <a/>
