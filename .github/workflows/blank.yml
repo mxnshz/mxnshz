@@ -3,17 +3,17 @@ name: Profile Readme Development Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs at 00:00AM UTC
+    - cron: '0 0 * * *'
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
-          SHOW_PROJECTS: "False"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LANGUAGE: "True"
-          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
