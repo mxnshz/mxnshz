@@ -24,14 +24,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 51 mins      ████████████████████░░░░░   80.43 % 
-SCSS                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-JSON                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               23 hrs 47 mins      ████████████████████████░   95.98 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Mac                      20 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
