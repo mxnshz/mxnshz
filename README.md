@@ -20,19 +20,6 @@
   \/\/ figma/photoshop \/\/
 ```
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               13 hrs 34 mins      █████████████████████░░░░   85.96 % 
-SCSS                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 ```yaml
