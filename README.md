@@ -24,11 +24,11 @@
 
 ```text
 💬 Programming Languages: 
-SCSS                     5 hrs 10 mins       ████████████████████░░░░░   79.83 % 
-TypeScript               1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+SCSS                     5 hrs 59 mins       ███████████████████░░░░░░   75.45 % 
+TypeScript               1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 
 💻 Operating System: 
-Mac                      6 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
